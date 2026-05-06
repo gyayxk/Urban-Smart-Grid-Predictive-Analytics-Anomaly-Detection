@@ -59,7 +59,7 @@ database.py	The Storage	Manages the SQL schema and data persistence using SQLAlc
 1. Environment Setup
 Bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-grid-analytics.git
+git clone https://github.com/gyayxk/smart-grid-analytics.git
 cd smart-grid-analytics
 
 # Create and activate virtual environment
